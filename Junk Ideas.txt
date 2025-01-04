@@ -1,0 +1,15 @@
+1. Game
+2. Website
+3. AI
+
+Website: Online Chat Application with emphasis on stickers and making doodles, sharing your doodles
+Game: Coffee/Tea/beer serving game. Scalable. 
+Generative AI: AI learns to play flappy bird!
+
+// Trash Idea
+Game: player collects upgrades on 2d map and deal with waves of enemies(creatures), player has shooting ability, something like vampire survivors game..
+Twist: placing structures(shooting, burning, defense), collectables from disappearing drops/chests
+strategy: protecting something vulnerable for as long as possible (family)
+Game idea: man protecting family from creatures during night while collecting resources and buying weapons in morning. Invest in resource for defense, Invest in
+weapons through killing waves of enemies. Timer sort of game where creatures run when morning comes. Family follows you and you put them in defenses while you battle
+enemies. Family health also affects your damage. 
