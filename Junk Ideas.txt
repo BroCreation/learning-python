@@ -12,4 +12,4 @@ Twist: placing structures(shooting, burning, defense), collectables from disappe
 strategy: protecting something vulnerable for as long as possible (family)
 Game idea: man protecting family from creatures during night while collecting resources and buying weapons in morning. Invest in resource for defense, Invest in
 weapons through killing waves of enemies. Timer sort of game where creatures run when morning comes. Family follows you and you put them in defenses while you battle
-enemies. Family health also affects your damage. 
+enemies. Family health also affects your damage.

@@ -197,7 +197,7 @@ print(heroes.pop("Superman"))
 d1 = {"name": "Bread", "price": .88}
 print('%(name)s costs $%(price).2f' % d1)
 
-# Sets (list of unordered, unique and immutable(can add/remove but no change) stuff)
+# Sets (list of unordered, unique and immutable(can add/remove but no change) values)
 print("----SETS----")
 s1 = set(["Bro", 7, "Creation", 7])
 s2 = {"Paul", 7, "Bro"}
