@@ -300,3 +300,16 @@ while True:
 	except Exception as e:
 		print(f"Error Occured: {e}")
 	break
+
+guess = 0; guessCount = 0; guessNum = random.randint(1, 101)
+while guess != guessNum:
+	guess = input("Enter your guess: ")
+	guessCount += 1
+	if guess > guessNum:
+		print('Your guess is too high!')
+	elif guess < guessNum:
+		print('Your guess is too low!')
+	else:
+		break
+
+print(f'You guess {guessNum} in {guessCount} attempts!')
